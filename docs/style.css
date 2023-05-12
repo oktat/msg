@@ -1,0 +1,35 @@
+.container {    
+    background-color: darkcyan;
+    display: flex;    
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+#msg {
+    height: 40px;
+    font-size: 24px;
+    border-radius: 5px;
+}
+
+#enterButton {
+    height: 38px;
+    background-color: lightblue;
+    font-size: 24px;
+}
+
+.box {
+    background-color:aqua;
+    position: absolute;
+    font-size: 20px;
+    height: 70px;
+    width: 100px;
+    border-radius: 8px;
+    display: flex;    
+    align-items: center;
+    justify-content: center;
+}
